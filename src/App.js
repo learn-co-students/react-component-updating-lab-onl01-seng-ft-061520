@@ -26,7 +26,7 @@ class App extends Component {
         <div className="TimerGrid">
           {this.renderTimers()}
         </div>
-
+ 
       </div>
     );
   }
